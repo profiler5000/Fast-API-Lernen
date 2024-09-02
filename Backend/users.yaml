@@ -1,0 +1,8 @@
+Users:
+  user1: testuser
+    - name: "testuser"
+    - alter: 22
+  
+  user2: testuser
+    - name: "testuser"
+    - alter: 22
