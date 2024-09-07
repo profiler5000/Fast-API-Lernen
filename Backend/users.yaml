@@ -1,5 +1,6 @@
 Users:
-  user1: testuser
+  user
+  testUser1: testuser
     - name: "testuser"
     - alter: 22
   
